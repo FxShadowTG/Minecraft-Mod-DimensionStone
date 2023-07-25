@@ -1,5 +1,5 @@
- **注意，该模组代码仅可用来预览，你无法装载在Minecraft国际版中。如果你想游玩该模组，请前往我的世界中国版基岩端中搜索开发者账号“刷怪笼工作室”，选择对应的模组购买并下载使用** 
-
+ **注意，该模组代码仅可用来预览，你无法装载在Minecraft国际版中。如果你想游玩该模组，请前往我的世界中国版基岩端中搜索开发者账号“刷怪笼工作室”，选择对应的模组购买并下载使用。如果你也是MC爱好者，不妨点个Star支持下，谢谢！** 
+**Note that this module code is only available for preview and cannot be loaded into Minecraft International Edition. If you want to play this module, please search for the developer account "Brushing Monster Cage Studio" in my World China version of the bedrock platform, select the corresponding module to purchase and download for use. If you are also an MC enthusiast, why not click on Star support? Thank you**
 
 230228版本更新：
 
