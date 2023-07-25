@@ -1,0 +1,19 @@
+{
+    "format_version": [
+        1,
+        1,
+        0
+    ],
+    "qiemm:dimension_block": {
+        "isotropic": {
+            "down": true,
+            "east": true,
+            "north": true,
+            "south": true,
+            "up": true,
+            "west": true
+        },
+        "sound": "metal",
+        "textures": "qiemm:dimension_block"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "qiemm:main_stone"
+        },
+        "description": {
+            "category": "Items",
+            "identifier": "qiemm:main_stone",
+            "register_to_create_menu": true
+        }
+    }
+}

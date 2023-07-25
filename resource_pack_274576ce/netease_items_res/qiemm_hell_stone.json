@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "qiemm:hell_stone"
+        },
+        "description": {
+            "category": "Items",
+            "identifier": "qiemm:hell_stone",
+            "register_to_create_menu": true
+        }
+    }
+}

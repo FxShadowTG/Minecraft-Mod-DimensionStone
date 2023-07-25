@@ -1,0 +1,35 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "qiemm:ender_stone"
+        },
+        "key": {
+            "A": {
+                "data": 0,
+                "item": "minecraft:crying_obsidian"
+            },
+            "B": {
+                "data": 0,
+                "item": "minecraft:flint"
+            },
+            "C": {
+                "data": 0,
+                "item": "minecraft:water_bucket"
+            }
+        },
+        "pattern": [
+            "A",
+            "B",
+            "C"
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "qiemm:ender_stone"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

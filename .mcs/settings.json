@@ -1,0 +1,17 @@
+{
+    "Arena.Component.Namespace": "qiemm",
+    "FirstTabSetting": 0,
+    "ShortItemSettings": [
+        "resource_pack_274576ce\\ui",
+        "behavior_pack_f7bb3e6b\\Presets",
+        "behavior_pack_f7bb3e6b\\Parts",
+        "behavior_pack_f7bb3e6b\\BoxData",
+        "resource_pack_274576ce\\effects",
+        "resource_pack_274576ce\\models",
+        "resource_pack_274576ce\\textures"
+    ],
+    "Uluru.autoLayerDict": {
+
+    },
+    "Uluru.checkSuspectOldUI": true
+}

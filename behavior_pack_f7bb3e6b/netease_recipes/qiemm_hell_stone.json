@@ -1,0 +1,35 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "qiemm:hell_stone"
+        },
+        "key": {
+            "A": {
+                "data": 0,
+                "item": "minecraft:crying_obsidian"
+            },
+            "B": {
+                "data": 0,
+                "item": "minecraft:flint"
+            },
+            "C": {
+                "data": 0,
+                "item": "minecraft:lava_bucket"
+            }
+        },
+        "pattern": [
+            "A",
+            "B",
+            "C"
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "qiemm:hell_stone"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

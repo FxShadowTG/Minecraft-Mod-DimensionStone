@@ -1,0 +1,9 @@
+{
+    "resource_pack_name": "vanilla",
+    "texture_data": {
+        "qiemm:dimension_block": {
+            "textures": "textures/blocks/dimension_block"
+        }
+    },
+    "texture_name": "atlas.terrain"
+}

@@ -1,0 +1,23 @@
+{
+    "Addon": {
+        "PresetInstanceTreeData": [
+
+        ]
+    },
+    "UI": {
+        "customPrefabGroupExpand": [
+
+        ],
+        "expandData": {
+            "prefab": {
+
+            },
+            "screen": {
+                "D:\\MCStudioDownload\\work\\zx1292492939@163.com\\Cpp\\AddOn\\68da353d56584259bbd26ed3aa4829dd\\resource_pack_274576ce\\ui\\ui0.json": [
+                    "/main",
+                    "/main/panel"
+                ]
+            }
+        }
+    }
+}

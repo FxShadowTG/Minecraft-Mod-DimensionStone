@@ -1,0 +1,15 @@
+{
+    "resource_pack_name": "vanilla",
+    "texture_data": {
+        "qiemm:ender_stone": {
+            "textures": "textures/items/ender_stone"
+        },
+        "qiemm:hell_stone": {
+            "textures": "textures/items/hell_stone"
+        },
+        "qiemm:main_stone": {
+            "textures": "textures/items/main_stone"
+        }
+    },
+    "texture_name": "atlas.items"
+}

@@ -1,0 +1,16 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:max_stack_size": 1,
+            "netease:customtips": {
+                "value": "§a拿在手上点击维度方块可直接传送进主世界"
+            }
+        },
+        "description": {
+            "category": "Items",
+            "identifier": "qiemm:main_stone",
+            "register_to_create_menu": true
+        }
+    }
+}
